@@ -16,7 +16,6 @@ ZebraHub is a secure online patient portal empowering rare disease patients and 
 
 Looks like the table formatting got squished. Here's the fix — paste this into your README:
 
-markdown
 ## Tech Stack
 
 | Layer | Technology |
