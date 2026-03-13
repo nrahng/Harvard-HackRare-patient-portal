@@ -5,7 +5,7 @@ Team ANOVA · HackRare 2025 · Therapeutic Targets Track
 Dylann Yavorski, Norah Nguyen, Maggie Li, Srinija Beesa Gouni
 
 
-# About
+## About
 ZebraHub is a secure online patient portal empowering rare disease patients and their families to play an active role in ongoing clinical trials. Built for ultra-rare diseases where every participant counts.
 
 
