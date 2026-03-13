@@ -1,7 +1,7 @@
 # Hack-Rare-patient-portal
 🦓 ZebraHub — Rare Disease Patient Portal
 
-Team ANOVA · HackRare 2025 · Therapeutic Targets Track
+Team ANOVA · Harvard HackRare 2025 · Therapeutic Targets Track
 Dylann Yavorski, Norah Nguyen, Maggie Li, Srinija Beesa Gouni
 
 
