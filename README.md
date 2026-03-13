@@ -7,7 +7,7 @@ Dylann Yavorski, Norah Nguyen, Maggie Li, Srinija Beesa Gouni
 
 About
 ZebraHub is a secure online patient portal empowering rare disease patients and their families to play an active role in ongoing clinical trials. Built for ultra-rare diseases where every participant counts.
-Features
+
 
 📝 Individualized enrollment — registration tailored to each patient's needs  <br>  
 📅 Daily check-ins — symptom tracking over time  <br>  
